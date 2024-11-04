@@ -1,7 +1,5 @@
 # Walmart Sales Data Analysis
 
-![Project Image](https://example.com/project-image)
-
 ## 📊 Project Overview
 This project involves setting up a **Walmart sales database** and performing an in-depth analysis to derive insights on sales performance, customer preferences, and product trends. SQL is used extensively for data loading, feature engineering, and analysis.
 
